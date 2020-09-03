@@ -1,0 +1,7 @@
+seleccionar mesa
+numero de cuenta de la mesa
+categoria a ingresar de productos(combos o individuales)
+ver cuenta 
+seleccionar producto
+configurar el producto
+hacer el pedido.

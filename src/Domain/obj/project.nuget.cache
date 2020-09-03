@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCk2vICvOxyWoe37kk1epTU7z7BZiIKe16La7vfBxeX0DP3MTFGn09wnuBOjjWk/YmlPc+bJd1jfgkAZbdd+hg==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Ariel\\Documents\\GitHub\\HambusProject\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khelpix\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\khelpix\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "restaurant-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

@@ -1,0 +1,28 @@
+/* Provide sufficient contrast against white background */
+a {
+  color:#f8f8ff;
+  font-weight: 600;
+}
+a:hover{
+  color:white;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+i{
+  background-color: white !important;
+}
+.MuiListItem-button:hover{
+  background: #e1ad01 !important;
+}
+
+
+/**/

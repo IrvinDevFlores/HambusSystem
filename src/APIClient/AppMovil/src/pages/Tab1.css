@@ -1,0 +1,23 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.hcs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+ion-img:hover{
+  cursor: pointer;
+}
+
+
+ion-content {
+  --background: #120b07;
+  height: 20px;
+}
+
+ion-toolbar{
+  --background:#1d110d;
+}

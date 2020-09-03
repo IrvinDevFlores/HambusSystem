@@ -1,0 +1,79 @@
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Application.deps.json
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Application.dll
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Application.pdb
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Domain.dll
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Persistence.dll
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Domain.pdb
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/bin/Debug/netstandard2.0/Persistence.pdb
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.dll
+c:/Users/Ariel/Documents/MEGAsync/True RMS electric & apliances/src/Application/obj/Debug/netstandard2.0/Application.pdb
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.dll
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.pdb
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Application.deps.json
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Application.dll
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Application.pdb
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Domain.dll
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Persistence.dll
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Domain.pdb
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/run/media/arielreyesflores/SYSTEM/Users/Ariel/Documents/MEGAsync/HambusRestaurantApp/src/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Ariel\Documents\MEGAsync\HambusRestaurantApp\src\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\GitHub\HambusRestaurantSystem_v2\src\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\cubas\Desktop\Proyectos\Hambus\HambusRestaurantSystem\src\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Ariel\Documents\GitHub\HambusProject\src\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
